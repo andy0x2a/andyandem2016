@@ -1,12 +1,14 @@
 #googleMap {
     display: block;
-    width6500px;
+    max-width: 600px;
+    width:90%;
     height: 400px;
     /*margin-left: -100px;*/
 
 border-radius: 10px;
 border-style: solid;
 border-width: 2px;
-
+    margin-left: auto;
+    margin-right: auto;
 }
 
