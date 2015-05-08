@@ -142,7 +142,7 @@ body {
     /*height: 350px;*/
     text-align: center;
     vertical-align: middle;
-    font-size: 16px;
+    font-size: 18px;
     margin-left: auto;
     margin-right: auto;
     margin-top: auto;
@@ -152,8 +152,8 @@ body {
 
 }
 
-.maincontent.medFont {
-    font-size: 18px;
+.veryStrong {
+    font-size: 21px;
 }
 .salmon {
     background-color: lavender;
